@@ -1,5 +1,5 @@
 # CodeTechie
-This project is a complete implementation of a **Spam Detection System** using **Natural Language Processing (NLP)** and **Machine Learning**, integrated into a **Tkinter-based Graphical User Interface (GUI)**.
+Task 1: This project is a complete implementation of a **Spam Detection System** using **Natural Language Processing (NLP)** and **Machine Learning**, integrated into a **Tkinter-based Graphical User Interface (GUI)**.
 
 ### 1. **Dataset Loading**
 - The dataset `spam_ham_dataset.csv` is loaded using `pandas`, which contains labeled SMS messages as `spam` or `ham`.
